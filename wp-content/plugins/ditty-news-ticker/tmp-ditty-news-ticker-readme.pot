@@ -1,0 +1,654 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Ditty News Ticker"
+msgstr ""
+
+#. Short description.
+msgid "Ditty News Ticker is a multi-functional data display plugin."
+msgstr ""
+
+#. Screenshot description.
+msgid "Default Ticker Type options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Scroll Mode options"
+msgstr ""
+
+#. Screenshot description.
+msgid "Rotate Mode options"
+msgstr ""
+
+#. Screenshot description.
+msgid "List Mode options"
+msgstr ""
+
+#. Found in description header.
+msgid "There are 3 default ticker modes"
+msgstr ""
+
+#. Found in description header.
+msgid "Extensions"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scroll Mode</strong> - Scroll the ticker data left, right, up or down"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Rotate Mode</strong> - Rotate through the ticker data"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>List Mode</strong> - Display your ticker data in a list"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Ditty News Ticker is a multi-functional data display plugin. Easily add custom news tickers to your site either through shortcodes, direct functions, or in a custom Ditty News Ticker Widget."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://dittynewsticker.com/ticker-modes/\"><strong>View samples of each mode.</strong></a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Ditty News Ticker is built to easily be extended to add extra Ticker Types and extra Ticker Modes.\n"
+"To see a list of all extensions, visit the <a href=\"http://dittynewsticker.com/extensions/\"><strong>extensions page</strong></a>."
+msgstr ""
+
+
+
+#. Found in installation list item.
+msgid "Upload <code>ditty-news-ticker</code> directory to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create tickers by going to <strong>News Tickers &gt; Add New</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Insert your tickers by copying and pasting the provided shortcode into another post."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Optionally, insert your tickers by copying and pasting the direct function code directly into your theme or plugin."
+msgstr ""
+
+#. Found in installation paragraph, faq paragraph.
+msgid "<a href=\"http://dittynewsticker.com/mc/ditty-news-ticker-doc/\"><strong>View full help documentation.</strong></a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed visual editor glitch from last update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated metabox code for flexibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated some metabox filter names"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Customized bootstrap affix plugin due to conflicts within dashboard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more social icons to icon font package"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated admin page layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated metaboxes for new admin page layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Newly added WYSIWYG editors now work without having to save your post"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added javascript error check before saving dynamic fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additional data passed through mtphr_dnt_ticker_class filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated widget class name"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated widget class"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated touchSwipe.js"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed inactive links on mobile using touchSwipe"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified data sanitization on tick content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified default options for Rotate Settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to disable touchswipe on touch devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Script bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-organized files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added template files for easier customization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added shortcode &amp; oEmbed parsing to ticks"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to remove outer padding around grids"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed add_query_arg() and remove_query_arg() usage"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin metabox bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Italian translation files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed metabox bug from last update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified jQuery script to allow hidden tickers to function correctly after they become visible on screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to add all ticks from a selected type to the mixed ticker"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in ticker script filter when using unique_ids"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved plugin files to GitHub"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Author support to post type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed \"data-icon\" styles in icon font stylesheet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Converted icon font characters to PUA"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved News Ticker title to \"mtphr_dnt_before\" action for easier customization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in edit page type &amp; mode filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "CSS adjustments for rotate buttons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added plugin activation/de-activation to flush rewrite rules"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved admin files into separate admin directories"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set file permissions on fontastic files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed metaboxer code &amp; files, which are no longer used"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Merged the metabox list jQuery functionality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed ajax.php file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed image navigation &amp; buttons. Replaced with icon fonts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added type &amp; mode filters to edit screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to add aquick edit link to tickers for admins/editors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made ditty_new_ticker post type public"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Included ditty_new_ticker post type in nav menus"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Filtered single post content to display the ticker on ditty_new_ticker single posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional metabox jquery for lists and sortables"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in jQuery setup where extra characters where being written"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added WPML Support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed jquery script issue for multiple same tickers with unique ids"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional jQuery triggers and listeners"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed force line break issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added grid display funcitonality"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added page list functionality to lists"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated general settings code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated metabox code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mtphr_dnt_contents_before &amp; mtphr_dnt_contents_after actions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved rotate direction nav to mtphr_dnt_contents_after filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved rotate control nav to mtphr_dnt_after filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved global data mtphr_dnt_after filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "General code cleanup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additional admin css"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mtphr_dnt_settings_submit_button filter to settings submit button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added $mtphr_dnt_ticker_types global to front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Arabic language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mtphr_dnt_after_load jQuery trigger"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mtphr_dnt_before_change jQuery trigger"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mtphr_dnt_after_change jQuery trigger"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mtphr_dnt_resize jQuery listener"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated menu icon to icon font"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed type &amp; mode selections from accidentally showing up in other post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved type &amp; mode selections out of metaboxes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a default tick to the mixed type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed console.log from script-admin.js"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Big fix from last update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Organized code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"Mixed\" type to display tickers mixed with multiple ticker types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified 'after_load', 'before_change', 'after_change' filters for DNT class script"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added code to remove duplicate tickers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to force line breaks on carriage returns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modifed to allow multiline text"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated custom css field to css editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified ditty-news-ticker js class due to issues with certain versions of jQuery."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed outerWidth() to with()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed outherHeight() to height()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed touchSwipe error that was occurring in Firefox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed undefined variable error in functions.php."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated metaboxer files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upated \"Show first tick on init\" code for better functionality."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added mobile swipe support for rotate mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a hidden tick \"offset\" parameter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added setting to display first scroll tick on init."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified structure &amp; CSS to move the rotate navigation up a level."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed pause on hover functionality."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified jQuery ticker class loading."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed load_plugin_textdomain setup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added wysiwyg editor option back."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added nofollow to navigational links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to use visual editors for tick content (on settings page)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adjusted DNT jQuery class. Converted height() &amp; width() to outerHeight() &amp; outerWidth()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reworked scroll mode to function better in IE."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a global offset to scrolling and rotating ticks to are hidden."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved rotating tick code into .js file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added css for max-image: 100%."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Converted .clearfix class to custom .mtrph-dnt-clearfix to avoid conflicts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added \"width\" override for scrolling tickers back in... whoops!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a checkbox to set links as rel=\"nofollow\"."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated vertical scrolling for responsive sites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed \"width\" override for scrolling tickers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new ticker classes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in rotator mode with \"pause on hover\" activated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "jQuery now loading on (window).load() instead of (document).ready(). Fixes scrolling issue in Safari."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added .clearfix to .mtphr-dnt-wrapper."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Specifically set .mtphr-dnt-tick.clearfix to display:none to override css in certain themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filters to jQuery class callbacks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ticker ID to jQuery class vars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now resizing rotator ticker height on window resize."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed jQuery issue in Firefox when adding new ticks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated settings scripts for extensibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor update to metaboxer css."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated metaboxer scripts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated direct function output."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated ticker types link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed rotator numbers padding."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed limited number of DNT in widget drop down issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'languages' folder for localization."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an 'in_widget' attribute to tickers displayed in widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated 'sort' metaboxer code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified post_updated message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add a ticker (auto) width override setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added 'mtphr_dnt_tick_before' and 'mtphr_dnt_tick_after' actions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error in 'rotate_scroll_up' script."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Metabox scripts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor code update."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial upload of Ditty News Ticker - a multi-functional data display plugin."
+msgstr ""
+
+#. Found in faq header.
+msgid "Are there any settings I need to configure?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Each individual Ticker post has multiple settings to customize."
+msgstr ""
